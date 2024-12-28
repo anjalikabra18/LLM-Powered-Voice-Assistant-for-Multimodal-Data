@@ -1,6 +1,4 @@
 🌟 LLM Powered Multilingual Voice Assistant for Multimodal Data 🌟
-Designed and Developed by Anjali Kabra
-
 Welcome to a new era of AI-powered communication! This project is more than a voice assistant—it's your multilingual, multimodal companion that understands text, speech, and even images. Built with state-of-the-art AI models and optimized for real-time performance, this assistant speaks your language and adapts to your needs.
 
 🚀 What Can It Do?
