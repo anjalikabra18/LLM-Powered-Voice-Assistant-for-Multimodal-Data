@@ -49,7 +49,7 @@ CUDA (PyTorch)-	Accelerates performance with GPU-powered speed
 
 BitsAndBytes-	Enables 4-bit quantization for memory efficiency
 
-🎥 How It Works (Step-by-Step)
+🎥 How It Works 
 Input Your Query
 
 Speak, type, or upload an image.
